@@ -17,5 +17,20 @@
 body{
 	width:70%;
 }
-
+img
+{
+	width:20px;
+	height:25px;
+	padding:0px 20px 0px 20px;
+}
+.line
+{
+	background-color:blue;
+	border:1px;
+	color:blue;
+}
+span{
+	padding:0px 0px 0px 300px;
+}
+	
  
