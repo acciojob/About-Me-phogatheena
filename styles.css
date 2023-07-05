@@ -1,1 +1,21 @@
+.resume
+{
+	display:flex;
+    justify-content:space-between;
+	
+	
+}
+.one
+{
+	padding:0px 0px 0x 30px ;
+	
+}
+.two
+{
+	width:33%;
+}
+body{
+	width:70%;
+}
 
+ 
